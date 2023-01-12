@@ -83,12 +83,11 @@ We are now in the process of making the lessons citable.
 .left-column70[
 ## Staff, hubs, and funding partners
 
-- 12 persons are on contract (~ 3 FTE/year), funding .emph[until Oct 2021]
+- Third phase of CodeRefinery funded by NeIC 2022-2025
 - https://coderefinery.org/about/who-we-are/
 - Major training hubs: Aalto, Stockholm, Oslo, Trondheim
 - .emph[Significant support from volunteer instructors and exercise leads]
 
-### We are in a transition period: more about that later
 ]
 .right-column30[
 <img src="img/neic.png" style="padding-left: 100px; height: 35px;"/>
@@ -166,6 +165,37 @@ We are now in the process of making the lessons citable.
 - Development of tools
 - .emph[Training] (version control, notebooks, documentation, code review, version control for dependencies, licenses, testing)
 - .emph[Mentorship]
+
+---
+
+## CodeRefinery 2023: .emph[Community project]
+
+
+### Primary tasks
+
+- Classic "CodeRefinery workshops" with focus on best software practices, organized by partners
+- Own training: both open tracks and sponsored personalized courses
+- Coordinate other shared collaborative training events
+- Train the trainer
+
+
+### Additional goals
+
+- Continue coordinating Carpentries events in Nordics/Baltic countries
+- Driving/supporting Nordic research software engineers (RSE) network
+- Support professional development of RSEs
+- Improve towards a more inclusive community and better gender balance
+
+---
+
+## Future/challenges
+
+- Towards a non-profit organization
+- Make it easier for organizations and individuals to join
+- Give .emph[better credit] for volunteer contributions
+- Offer not only training but also mentorship network
+- FAIR software practices survey
+- How to better advertise and reach and connect the community?
 
 ---
 
@@ -276,33 +306,3 @@ class: center, middle, inverse
 
 - 400 active users, 800 active projects: https://coderefinery.org/repository/
 
----
-
-## CodeRefinery 2023: .emph[Community project]
-
-
-### Primary tasks
-
-- Classic "CodeRefinery workshops" with focus on best software practices, organized by partners
-- Own training: both open tracks and sponsored personalized courses
-- Coordinate other shared collaborative training events
-- Train the trainer
-
-
-### Additional goals
-
-- Continue coordinating Carpentries events in Nordics/Baltic countries
-- Driving/supporting Nordic research software engineers (RSE) network
-- Support professional development of RSEs
-- Improve towards a more inclusive community and better gender balance
-
----
-
-## Future/challenges
-
-- Towards a non-profit organization
-- Make it easier for organizations and individuals to join
-- Give .emph[better credit] for volunteer contributions
-- Offer not only training but also mentorship network
-- FAIR software practices survey
-- How to better advertise and reach and connect the community?
