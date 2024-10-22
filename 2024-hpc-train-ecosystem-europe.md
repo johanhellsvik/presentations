@@ -35,7 +35,7 @@ Johan Hellsvik, PDC center for high performance computing, KTH Royal Institute o
 <img src="img/pyramid.png"
      alt="Pyramid image with Carpentries as base, in the middle CodeRefinery providing expert training, and on top: specialist training"
      style="width: 420px;"/>
-WelcometotheHPCTrainingEcosysteminEurope.pdf]
+]
 
 ---
 .center[
@@ -69,7 +69,7 @@ Similar projects:
 - **Modular code development**: Organizing projects as they grow from one screen-full to larger.
 
 
-### Tested in [9 online and 28 in-person](https://coderefinery.org/workshops/past/) workshops
+### Tested in [10 online and 29 in-person](https://coderefinery.org/workshops/past/) workshops
 
 - We reach over [500 persons/year](https://coderefinery.org/about/statistics/)
 - Over [30 instructors/speakers](https://coderefinery.org/about/contributors/)
@@ -329,8 +329,8 @@ Co-advertize and co-organize with us
 ### Images
 
 - Slide 3: H. Seibold, "6 helpful steps for reproducible research", CC-BY 4.0
-- Slides 5, 8, 18: S. Wittke
-- Slide 12: ATC tower, P. R. Miller, CC-BY 2.0
-- Slide 12: Monitor setup, R. Darst
-- Slide 12: Logos, (c) respective organizations
+- Slide 12: S. Wittke
+- Slide 18: ATC tower, P. R. Miller, CC-BY 2.0
+- Slide 18: Monitor setup, R. Darst
+- Slide 18: Logos, (c) respective organizations
 - All other images: CodeRefinery project, CC-BY 4.0
